@@ -1,8 +1,8 @@
 # References:
 
-1.https://www.rabbitmq.com/docs/confirms (for nAck/Manual ACK)
-2.https://amqp-node.github.io/amqplib/channel_api.html (Also for nACK)
-3.https://www.rabbitmq.com/docs/consumers#subscribing (for the RabbitMQ Consumer Pattern)
+1. https://www.rabbitmq.com/docs/confirms (for nAck/Manual ACK)
+2. https://amqp-node.github.io/amqplib/channel_api.html (Also for nACK)
+3. https://www.rabbitmq.com/docs/consumers#subscribing (for the RabbitMQ Consumer Pattern)
 
 # Why use push pattern instead of polling
 
